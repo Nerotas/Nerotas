@@ -21,7 +21,7 @@ Outside of work, I balance my code commits with my **side kicks** AKA my **kids*
 - **DevOps & Tools:** Docker, Kubernetes, AWS, Azure, GitHub Actions, CI/CD  
 - **Testing:** Jest, Cypress  
 - **UI:** Material UI, React Query, Axios  
-- **Auth:** JWT, SSO, Azure B2C  
+- **Auth:** JWT, SSO, OAuth, Azure B2C  
 
 ---
 
